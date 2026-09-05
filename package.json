@@ -2,7 +2,7 @@
   "name": "dark-green-vscode-theme",
   "displayName": "Dark Green Hacker",
   "description": "A near-black VS Code theme with hacker green chrome and native-style syntax colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "IngJoelCaraballo",
   "author": {
     "name": "Ing Joel Caraballo",
@@ -15,6 +15,7 @@
     "url": "https://github.com/joelcaraballo/dark-green.git"
   },
   "icon": "logo.png",
+  "license": "MIT",
   "engines": {
     "vscode": ">=1.80.0"
   },
