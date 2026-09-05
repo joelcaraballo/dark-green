@@ -10,6 +10,11 @@
     "url": "https://ingjoelcaraballo.com"
   },
   "homepage": "https://ingjoelcaraballo.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelcaraballo/dark-green.git"
+  },
+  "icon": "logo.png",
   "engines": {
     "vscode": ">=1.80.0"
   },
