@@ -141,7 +141,12 @@
     {
       "name": "Strings",
       "scope": ["string", "constant.other.symbol"],
-      "settings": {"foreground": "#ce9178"}
+      "settings": {"foreground": "#a8d08d"}
+    },
+    {
+      "name": "Template text",
+      "scope": ["text.html", "text.html.basic"],
+      "settings": {"foreground": "#b7f7b0"}
     },
     {
       "name": "Numbers and constants",
@@ -205,9 +210,11 @@
         "source.python string.quoted.double.python",
         "source.python string.quoted.triple.single.python",
         "source.python string.quoted.triple.double.python",
+        "source.python string.quoted.docstring.python",
+        "source.python string.unquoted.docstring.python",
         "source.python string.interpolated.python"
       ],
-      "settings": {"foreground": "#a8d08d"}
+      "settings": {"foreground": "#b7f7b0"}
     },
     {
       "name": "Python self and constants",
