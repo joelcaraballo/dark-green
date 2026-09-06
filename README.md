@@ -4,12 +4,16 @@ Un tema oscuro para VS Code, creado para trabajar con un fondo casi negro y una 
 
 Las clases y los tipos se muestran en verde brillante para que sea fácil ubicarlos mientras programas.
 
-## Instalación
+## Vista previa
 
-1. Abre la sección **Extensions** en VS Code.
-2. Pulsa el menú de tres puntos y selecciona **Install from VSIX...**.
-3. Elige `dark-green-vscode-theme-1.0.0.vsix`.
-4. Abre `Preferences: Color Theme` y selecciona **Dark Green Hacker**.
+Así se ve el tema en VS Code en html, python....:
+
+![Tema Dark Green Hacker en Python](screenshoot/1.png)
+
+![Tema Dark Green Hacker en una plantilla HTML](screenshoot/2.png)
+
+![Tema Dark Green Hacker completo](screenshoot/3.png)
+
 
 ## Autor
 
