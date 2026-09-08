@@ -4,6 +4,8 @@ Un tema oscuro para VS Code, creado para trabajar con un fondo casi negro y una 
 
 Las clases y los tipos se muestran en verde brillante para que sea fácil ubicarlos mientras programas.
 
+También incluye la variante **Deep Dark Green**, con fondos completamente negros y una interfaz todavía más oscura.
+
 ## Vista previa
 
 Así se ve el tema en VS Code en html, python....:
