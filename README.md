@@ -34,6 +34,8 @@ For better eye comfort, match the editor brightness to the room, avoid using a v
 
 ![Dark Green Hacker full workspace](screenshoot/3.png)
 
+![Nueva interfaz](screenshoot/4.png)
+
 ## Author
 
 **Ing Joel Caraballo**  
